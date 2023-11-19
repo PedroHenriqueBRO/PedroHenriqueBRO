@@ -1,4 +1,7 @@
 ### Meu nome é Pedro Henrique 
+<div style="display : inline_block"><br/>
+<img aling="center" src="https://enotas.com.br/blog/wp-content/uploads/2021/02/linguagem-de-programação.jpg">
+</div><br/>
 
 Linguagens que uso normalmente
 -------------------------------
@@ -15,3 +18,5 @@ Linguagens mais usadas
 --------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBRO&layout=compact)]()
 --------
+
+
