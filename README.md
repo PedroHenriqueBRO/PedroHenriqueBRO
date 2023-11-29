@@ -1,7 +1,4 @@
 ### Meu nome é Pedro Henrique 
-<div style="display : inline_block"><br/>
-<img aling="center" src="https://enotas.com.br/blog/wp-content/uploads/2021/02/linguagem-de-programação.jpg">
-</div><br/>
 
 Linguagens que uso normalmente
 -------------------------------
