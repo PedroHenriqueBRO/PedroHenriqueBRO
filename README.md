@@ -9,7 +9,6 @@ Linguagens que uso normalmente
 </div><br/>
 --------------------------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueBRO&show_icons=true&theme=cobalt)
 --------
 Linguagens mais usadas
 --------
