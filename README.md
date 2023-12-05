@@ -1,5 +1,4 @@
 ### Meu nome é Pedro Henrique 
-
 Linguagens que uso normalmente
 -------------------------------
 <div style="display: inline_block"><br/>
@@ -9,10 +8,9 @@ Linguagens que uso normalmente
 </div><br/>
 --------------------------------------------------------------
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueBRO&show_icons=true&theme=cobalt)
 --------
 Linguagens mais usadas
 --------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBRO&layout=compact)]()
 --------
-
-
