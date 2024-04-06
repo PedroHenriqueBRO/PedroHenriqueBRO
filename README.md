@@ -1,4 +1,5 @@
 ### Meu nome é Pedro Henrique 
+Curso Ciências Da Computação no IFNMG
 Linguagens que uso normalmente
 -------------------------------
 <div style="display: inline_block"><br/>
