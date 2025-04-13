@@ -1,4 +1,4 @@
-### Meu nome é Pedro Henrique 
+### Meu nome é Pedro Reis
 ### Curso Ciências Da Computação no IFNMG
 
 Linguagens que uso normalmente
