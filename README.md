@@ -2,8 +2,6 @@
 
 ## 🎓 Estudante de Ciência da Computação no IFNMG
 
----
-
 ### 🛠️ **Linguagens que uso normalmente**
 
 <div style="display: inline_block">
