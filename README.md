@@ -27,7 +27,7 @@
 ---
 
 ### 🌱 **Estou atualmente aprendendo**
-- Go (Golang) para Back-End.
+- Java para Back-end.
 - Aprimorando algoritmos e estruturas de dados.
 - Desenvolvendo soluções escaláveis e eficientes.
 
