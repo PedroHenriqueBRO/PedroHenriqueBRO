@@ -1,4 +1,4 @@
-# Pedro Reis
+8# Pedro Reis
 
 # 🎓 Estudante de Ciência da Computação no IFNMG
 ---
@@ -34,4 +34,4 @@
 ---
 
 ### 📫 **Como me encontrar**
-- LinkedIn: [Pedro Reis](https://www.linkedin.com/in/pedro-reis)
+- LinkedIn: [Pedro Reis](https://www.linkedin.com/in/pedro-reis-5b4325360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
