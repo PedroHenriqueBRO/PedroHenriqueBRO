@@ -1,4 +1,4 @@
-8# Pedro Reis
+# Pedro Reis
 
 # 🎓 Estudante de Ciência da Computação no IFNMG
 ---
