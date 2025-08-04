@@ -27,7 +27,7 @@
 ---
 
 ### 🌱 **Estou atualmente aprendendo**
-- Java para Back-end.
+- Python
 - Aprimorando algoritmos e estruturas de dados.
 - Desenvolvendo soluções escaláveis e eficientes.
 
