@@ -32,7 +32,7 @@
 - Python
 - Data Science
 - ML
-- Prediçaõ de Dados
+- Predição de Dados
 
 ---
 
