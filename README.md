@@ -1,6 +1,6 @@
-# Pedro Reis
+### Pedro Reis
 ---
-# 🎓 Estudante de Ciência da Computação no IFNMG
+### 🎓 Estudante de Ciência da Computação no IFNMG
 ---
 ### 🛠️ **Linguagens e ferramentas que estou utilizando atualmente**
 
