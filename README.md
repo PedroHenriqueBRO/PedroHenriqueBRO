@@ -1,15 +1,17 @@
-### Olá! Eu sou o Pedro Reis 👋
+<p align="center">
+  <img alt="Banner Galáxia" src="https://img.shields.io/badge/Olá!%20Eu%20sou%20o%20Pedro%20Reis%20%7C%20Bem%20vindo%20Ao%20meu%20GitHub🌌🚀-342C4C?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2735">
+</p>
 
 ---
 
-### 🎓 Sobre Mim
+### 🎓 Sobre Mim 
 
 - **Estudante de Ciência da Computação** no IFNMG.
 - Estudando **Desenvolvimento Web** e **Data Science**.
 
 ---
 
-### 🛠️ Minhas Habilidades (Linguagens e Ferramentas)
+### 🛠️ Minhas Habilidades (Linguagens e Ferramentas) 🪐
 
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -30,23 +32,24 @@
 
 ---
 
-### 🌱 Atualmente Aprendendo
+### 🌱 Rota de Aprendizagem 🛰️
 
 Estou focado em aprofundar meus conhecimentos em:
 - **Python** (foco em *Data Science* e *Machine Learning*).
 - **ML** (Machine Learning).
 - **Predição de Dados**.
 - **Desenvolvimento Web**.
+
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub 🔭
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueBRO&show_icons=true&theme=cobalt) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBRO&layout=compact)](https://github.com/PedroHenriqueBRO) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueBRO&show_icons=true&theme=vue) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBRO&layout=compact&theme=vue)](https://github.com/PedroHenriqueBRO) |
 
 ---
 
-### 📫 Conecte-se Comigo
+### 📫 Conecte-se Comigo 👽
 
 - **LinkedIn**: [Pedro Reis](https://www.linkedin.com/in/pedro-reis-5b4325360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
