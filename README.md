@@ -36,7 +36,7 @@ Estou focado em aprofundar meus conhecimentos em:
 - **Python** (foco em *Data Science* e *Machine Learning*).
 - **ML** (Machine Learning).
 - **Predição de Dados**.
-
+- **Desenvolvimento Web**.
 ---
 
 ### 📊 Estatísticas do GitHub
