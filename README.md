@@ -5,7 +5,7 @@
 ### 🎓 Sobre Mim
 
 - **Estudante de Ciência da Computação** no IFNMG.
-- Apaixonado por **Desenvolvimento Web** e **Data Science**.
+- Estudando **Desenvolvimento Web** e **Data Science**.
 
 ---
 
