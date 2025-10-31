@@ -66,7 +66,7 @@ Estou focado em aprofundar meus conhecimentos em:
 
 ---
 
-### 📊 Estatísticas do GitHub 🔭
+### 📊 Linguagens mais utilizadas 🔭
 <table>
   <tr>
     <td>
