@@ -64,17 +64,10 @@ Estou focado em aprofundar meus conhecimentos em:
 ---
 
 ### 📊 Linguagens mais utilizadas 🔭
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBRO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+
+| Top Languages |
+| :---: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBRO&layout=compact)](https://github.com/PedroHenriqueBRO) |
 
 ---
 
