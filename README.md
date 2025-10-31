@@ -45,23 +45,20 @@ Estou focado em aprofundar meus conhecimentos em:
 ### 📊 Estatísticas do GitHub 🔭
 
 <table>
-  <tr>
-    <td>
+    <td >
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueBRO&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
+    <td >
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHenriqueBRO&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
-  </tr>
 </table>
 
 ---
