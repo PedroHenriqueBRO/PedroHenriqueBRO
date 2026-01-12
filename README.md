@@ -30,38 +30,7 @@
 
 Estou focado em aprofundar meus conhecimentos em:
 - **Desenvolvimento Web**.
-
 ---
-
-### 📊 Estatísticas do GitHub 🔭
-
-<table>
-    <td >
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueBRO&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td >
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHenriqueBRO&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-</table>
-
----
-
-### 📊 Linguagens mais utilizadas 🔭
-
-| Top Languages |
-| :---: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueBRO&layout=compact)](https://github.com/PedroHenriqueBRO) |
-
----
-
 ### 📫 Conecte-se Comigo 👽
 
 - **LinkedIn**: [Pedro Reis](https://www.linkedin.com/in/pedro-reis-5b4325360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
