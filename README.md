@@ -50,9 +50,13 @@ const pedroReis = {
 
 
 ## 📊 Estatísticas
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroHenriqueBRO&custom_title=Jornada%20de%20Contribuições&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PedroHenriqueBRO&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/>
+</p>
 
 ## 🤝 Conecte-se Comigo 
 
