@@ -16,9 +16,8 @@
 const pedroReis = {
     localização: "Brasil 🇧🇷",
     formação: "Ciência da Computação - IFNMG",
-    foco: ["Desenvolvimento Web Full Stack"],
-    estudando: ["TypeScript", "React", "Node.js", "Python", "PHP"],
-    hobbies: ["Programação", "Jogos", "Séries","Jiu Jitsu"]
+    estudando: ["Docker","IA"],
+    hobbies: ["Programação", "Jogos", "Séries","Jiu Jitsu","Academia"]
 };
 ```
 
