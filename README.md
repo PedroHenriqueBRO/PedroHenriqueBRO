@@ -10,17 +10,15 @@
 
 <br>
 
-## 🪐 Sobre Mim
-
+## 🪐 Sobre Mim 
 ```typescript
 const pedroReis = {
     localização: "Brasil 🇧🇷",
     formação: "Ciência da Computação - IFNMG",
-    estudando: ["Docker","IA"],
-    hobbies: ["Programação", "Jogos", "Séries","Jiu Jitsu","Academia"]
-};
-```
-
+     estudando: ["Docker","IA"],
+   hobbies: ["Programação", "Jogos", "Séries","Jiu Jitsu","Academia"]
+ };
+ ```
 <br clear="right"/>
 
 ## 🛸 Tecnologias 
@@ -30,6 +28,8 @@ const pedroReis = {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
@@ -38,7 +38,6 @@ const pedroReis = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
 </div>
-
 
 ## 📊 Estatísticas
 
