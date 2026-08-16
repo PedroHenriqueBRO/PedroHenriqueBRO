@@ -65,7 +65,7 @@ const pedroReis = {
 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PedroHenriqueBRO&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=PedroHenriqueBRO&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/>
 </p>
 
 <div align="center">
