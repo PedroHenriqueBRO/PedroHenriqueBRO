@@ -10,11 +10,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320">
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PedroHenriqueBRO&color=E10600&style=for-the-badge&label=VISITANTES&labelColor=0D0D0D" alt="Visualizações do Perfil"/>
-  <img src="https://img.shields.io/github/followers/PedroHenriqueBRO?label=Seguidores&style=for-the-badge&color=E10600&labelColor=0D0D0D" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/PedroHenriqueBRO?label=Estrelas&style=for-the-badge&color=E10600&labelColor=0D0D0D" alt="Estrelas" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:E10600&height=3" width="100%"/>
 
