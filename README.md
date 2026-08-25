@@ -58,10 +58,6 @@ const pedroReis = {
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PedroHenriqueBRO&hide_border=true&background=0D0D0D&stroke=E10600&ring=E10600&fire=FF4C4C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FF4C4C&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak"/>
-</p>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenriqueBRO/PedroHenriqueBRO/output/github-contribution-grid-snake-dark.svg">
